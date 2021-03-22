@@ -1,0 +1,92 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch NEbitKreten",
+            "request": "launch",
+            "mainClass": "test1.NEbitKreten",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tabela",
+            "request": "launch",
+            "mainClass": "Tabela",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConnectFour",
+            "request": "launch",
+            "mainClass": "ConnectFour",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StiriUVrsto",
+            "request": "launch",
+            "mainClass": "StiriUVrsto",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Met",
+            "request": "launch",
+            "mainClass": "Met",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - uzorec",
+            "request": "launch",
+            "mainClass": "uzorec",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpreminjanjeStevilk",
+            "request": "launch",
+            "mainClass": "SpreminjanjeStevilk",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpreminjanjeŠtevilk",
+            "request": "launch",
+            "mainClass": "SpreminjanjeŠtevilk",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ime",
+            "request": "launch",
+            "mainClass": "Ime",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - palindrom",
+            "request": "launch",
+            "mainClass": "palindrom",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - nizi",
+            "request": "launch",
+            "mainClass": "nizi",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nizi1",
+            "request": "launch",
+            "mainClass": "Nizi1",
+            "projectName": "JAVAA!!!!!!_dc25b66f"
+        }
+    ]
+}
